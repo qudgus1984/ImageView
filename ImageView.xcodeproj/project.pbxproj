@@ -13,6 +13,8 @@
 		2FC3FDDC27EC324600F7BD02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3FDDA27EC324600F7BD02 /* Main.storyboard */; };
 		2FC3FDDE27EC324700F7BD02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3FDDD27EC324700F7BD02 /* Assets.xcassets */; };
 		2FC3FDE127EC324700F7BD02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3FDDF27EC324700F7BD02 /* LaunchScreen.storyboard */; };
+		2FC3FDEA27EC33FC00F7BD02 /* lamp_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3FDE827EC33FC00F7BD02 /* lamp_off.png */; };
+		2FC3FDEB27EC33FC00F7BD02 /* lamp_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3FDE927EC33FC00F7BD02 /* lamp_on.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2FC3FDDD27EC324700F7BD02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FC3FDE027EC324700F7BD02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FC3FDE227EC324700F7BD02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FC3FDE827EC33FC00F7BD02 /* lamp_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_off.png; sourceTree = "<group>"; };
+		2FC3FDE927EC33FC00F7BD02 /* lamp_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_on.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2FC3FDD627EC324600F7BD02 /* SceneDelegate.swift */,
 				2FC3FDD827EC324600F7BD02 /* ViewController.swift */,
 				2FC3FDDA27EC324600F7BD02 /* Main.storyboard */,
+				2FC3FDE827EC33FC00F7BD02 /* lamp_off.png */,
+				2FC3FDE927EC33FC00F7BD02 /* lamp_on.png */,
 				2FC3FDDD27EC324700F7BD02 /* Assets.xcassets */,
 				2FC3FDDF27EC324700F7BD02 /* LaunchScreen.storyboard */,
 				2FC3FDE227EC324700F7BD02 /* Info.plist */,
@@ -127,7 +133,9 @@
 			files = (
 				2FC3FDE127EC324700F7BD02 /* LaunchScreen.storyboard in Resources */,
 				2FC3FDDE27EC324700F7BD02 /* Assets.xcassets in Resources */,
+				2FC3FDEB27EC33FC00F7BD02 /* lamp_on.png in Resources */,
 				2FC3FDDC27EC324600F7BD02 /* Main.storyboard in Resources */,
+				2FC3FDEA27EC33FC00F7BD02 /* lamp_off.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
